@@ -56,11 +56,11 @@ What began as a one-off exploration in **Power BI** (using spreadsheet extracts)
 > Replace the image paths with your own redacted screenshots or mock data visuals.
 
 ### 1) Dashboard Overview
-![Overview](images/dashboard.png)  
+![Overview](/dashboard.png)  
 <sub>**Figure 1.** Note on data privacy: All screenshots are representative; the production dashboard contains confidential data  and cannot be disclosed.</sub>
 
 ### 2) Spreadsheet Overview
-![Leads Map](images/spreadsheet.png)  
+![Leads Map](/spreadsheet.png)  
 <sub>**Figure 2.** Note on data privacy: All screenshots are representative; the production dashboard contains confidential data  and cannot be disclosed.</sub>
 
 ## ✅ Conclusion
@@ -68,5 +68,6 @@ What began as a one-off exploration in **Power BI** (using spreadsheet extracts)
 This initiative transformed a one-off exploration into a governed, always-current **sales intelligence product**. By combining **Power Query ETL**, clean **data modeling**, and targeted **DAX** with stakeholder-driven design, I was able to create a solution that delivers actionable insights in several different verticals.
 
 By Partnering with IT to integrate **NAV APIs** and deploy in **Power BI Service** (scheduled refresh + RLS) we were able to embed the dashboard into the sales operating rhythm.
+
 
 **Takeaway:** This project demonstrates end-to-end **Power BI proficiency**, from discovery and ETL through modeling, DAX, UX, and enterprise rollout while upholding data privacy and governance.
