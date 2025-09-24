@@ -51,9 +51,7 @@ What began as a one-off exploration in **Power BI** (using spreadsheet extracts)
 
 ---
 
-## 🖼️ Screens & Captions
-
-> Replace the image paths with your own redacted screenshots or mock data visuals.
+## 🖼️ Screenshots
 
 ### 1) Dashboard Overview
 ![Overview](/dashboard.png)  
@@ -71,3 +69,4 @@ By Partnering with IT to integrate **NAV APIs** and deploy in **Power BI Service
 
 
 **Takeaway:** This project demonstrates end-to-end **Power BI proficiency**, from discovery and ETL through modeling, DAX, UX, and enterprise rollout while upholding data privacy and governance.
+
